@@ -10,8 +10,9 @@ public class PreetyMuchEverything : MonoBehaviour
     public int usages;
     public int kilo;
     public int dublons;
-    public int currentmoney;
+    private int currentmoney = 20;
     public Text text;
+    public Text money;
     public Renderer Render;
 
 	void Start ()
@@ -34,23 +35,27 @@ public class PreetyMuchEverything : MonoBehaviour
 
     public void OnMouseUpAsButton()
     {
-        text.text = "Solid buy ma guy";
-        currentmoney =- dublons;
-        usages =- 1;
+        if (usages > 0)
+        {
+            usages -= 1;
+            text.text = "Solid buy ma guy";
+            currentmoney -= dublons;
+        }
+        if(usages <= 0)
+        {
+            text.text = "Were out buddy";
+        }
     }
+   
 
-    public void GetPricePerWeight()
+    public void Money()
     {
-        dublons = kilo * 3; 
+        dublons = kilo * 3;
+        money.text = "Money : " + currentmoney;
     }
-
-    private void Reset()
-    {
-    }
-
     void Update ()
     {
-        GetPricePerWeight();
+        Money();
     }
   
 }
