@@ -1,0 +1,1800 @@
+fileFormatVersion: 2
+guid: 11f93d709f9a8ec4f883549fe5c0d9ce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_0
+    21300002: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_1
+    21300004: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_2
+    21300006: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_3
+    21300008: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_4
+    21300010: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_5
+    21300012: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_6
+    21300014: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_7
+    21300016: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_8
+    21300018: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_9
+    21300020: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_10
+    21300022: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_11
+    21300024: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_12
+    21300026: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_13
+    21300028: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_14
+    21300030: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_15
+    21300032: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_16
+    21300034: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_17
+    21300036: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_18
+    21300038: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_19
+    21300040: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_20
+    21300042: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_21
+    21300044: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_22
+    21300046: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_23
+    21300048: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_24
+    21300050: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_25
+    21300052: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_26
+    21300054: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_27
+    21300056: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_28
+    21300058: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_29
+    21300060: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_30
+    21300062: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_31
+    21300064: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_32
+    21300066: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_33
+    21300068: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_34
+    21300070: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_35
+    21300072: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_36
+    21300074: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_37
+    21300076: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_38
+    21300078: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_39
+    21300080: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_40
+    21300082: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_41
+    21300084: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_42
+    21300086: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_43
+    21300088: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_44
+    21300090: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_45
+    21300092: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_46
+    21300094: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_47
+    21300096: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_48
+    21300098: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_49
+    21300100: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_50
+    21300102: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_51
+    21300104: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_52
+    21300106: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_53
+    21300108: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_54
+    21300110: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_55
+    21300112: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_56
+    21300114: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_57
+    21300116: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_58
+    21300118: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_59
+    21300120: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_60
+    21300122: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_61
+    21300124: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_62
+    21300126: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_63
+    21300128: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_64
+    21300130: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_65
+    21300132: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_66
+    21300134: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_67
+    21300136: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_68
+    21300138: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_69
+    21300140: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_70
+    21300142: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_71
+    21300144: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_72
+    21300146: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_73
+    21300148: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_74
+    21300150: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_75
+    21300152: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_76
+    21300154: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_77
+    21300156: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_78
+    21300158: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_79
+    21300160: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_80
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 11
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 815
+        width: 199
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab23592997be94698b02a6473d137c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1014
+        width: 198
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333dd689e0fcc443ad35d676e6bafaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 811
+        width: 87
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ebecc054154548b08b9764c1ac79f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 943
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d2422534dfc8142a9d4c1a4f041b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 948
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d78c211777b1144a5d93557f406cfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 879
+        width: 81
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ab97bb871c2d49b9afbfd7bf34881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 989
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e56465b423de47b78c9edb7be5ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 879
+        width: 80
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d336f0ae01fcf44ca5787ce85f4e46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 991
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccf7d37298c084db89b1f81e3ac4b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 977
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2f6c2fd23fa44aadb6c2e451cd067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 946
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c713b2dfa9d6d443a3c8a2c4887a14f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 946
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad92b5b0f9d2b4a901e9ecc7c0a244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 875
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93b12fc00a67b499ec8de82d94ddcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 881
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbad3febaefb04396771d9c5be13d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 924
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5fdd34b1009c44eb2378a46126f702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 924
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00088d7771b9db343a487479ee3a5e7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 879
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bd4ed8774bd684b8624a4bcf00161d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 923
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0fe0c860262234eb9b052af41eb2f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 910
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595cee44baeb2e45a22ee2912e01f93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 910
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad26e49ec7d59b40a5d45a2d523f4a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 909
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3289aa7911960ff4b9556ffeeafeb17b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 879
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a53b3736f5ca74caa8370526f284c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 879
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3a437b6cf33164bb384987616cd441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 878
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c8597a633dd034ba4c3c5c91e8863d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 809
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca16f3e13b831a41890d25451c0834d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 809
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c6a54d3a63b49498f00c5347476281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 835
+        width: 216
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374d51601e31bff47ae70353b96d7f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_27
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 835
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1046da45b69a1b48bf00226404d5ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 790
+        width: 198
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa2340f82c8064a9990ead85bc43d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 793
+        width: 198
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd8cd55d9157e4691e34e4b3b38420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 774
+        width: 198
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6e76a4eafe264fa79b2384aa4e233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 790
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb17b83cf964a147ad4f5b2e45d04a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 718
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89631d0e6dcfb248974ba609c268c23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 716
+        width: 190
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3428a14f0ed81249ab60ec93c95abfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 635
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4eca920f4b98b458521905393084ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 714
+        width: 95
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d11600c6eeb44782fbcadb5fe2b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 568
+        width: 97
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b9306390bb5e144983e9e04f81cdaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 706
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b521f28ec571a419bf528afb255466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_38
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 705
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db12342c6994e34290ef7f0c34b86c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_39
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 707
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a01e376876514ba9d6db747cb2bb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 641
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1a60693fcd21f4b80c9a63bd945886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 635
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93cef156cdbf4478ae7833cf2dba2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 613
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0f332fff2a254a85cf0f2df79f12a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 451
+        width: 198
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b655e078570f2f4419cae4da19133ed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 572
+        width: 97
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339bf57a8f14f5541836fa3f5bb4c524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_45
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 632
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d598b9cd77f3fa48a9a7bd9f823228b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 548
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51652c7ea567a8c479f4956785d9a182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 565
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33eb7afd263ee47a7043bdf7195196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 549
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e4a36c3f017b44a957581d06516d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_49
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 604
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30794d98fbefdba49b98857b368e017a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_50
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbbdf0af6c3b9c4f900aeb63636bdba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 592
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b520174418b9489c6799f16b44b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_52
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 580
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a29316b0bf2474698ff72e073f4439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 450
+        width: 198
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ca00083d914348aed1265a9c5e7ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_54
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 466
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd1cc8cd2e6ca94e92296aec840de48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 471
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f373c59010e004eb1d13048b8a30cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_56
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 406
+        width: 76
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a727e7aad8bb424396d18d5d00ec2b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_57
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 449
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7af9a22474de429bafd3301f81150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_58
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 475
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248f6f55066eeb47ac76a3cbc74a370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_59
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 476
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821cded21b480d0499faa2cd075b85d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22212d251f1a5845ad5613ca5115f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 327
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445a7adb280dbb44b6dfe38e3390d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 327
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444709e219661044698c00d6ff7aa85c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 323
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaaa9779ba883e45914bc5e345d1573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd84924170dff74e894e807028bad8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 43
+        width: 378
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed253890db71344ba49f86140c5142b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_66
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 206
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c5e004c9646c4f8031c0a04e88a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3161989c1d67e41992c181a643e8c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 206
+        width: 119
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69962cf10780b174bac166eddc1cbfbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_69
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 258
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3284a61c5ffee33438a2d5be597c7f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 198
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24da729a75ef6e4c8f844f7ae877a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 117
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799fb5599949af0499bc867f6508d906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576abc6a564b3b4eac2a28d40db1a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 108
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429118f9aaeacb4e984192f957e69f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_74
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0981db4ca1667c748ab5ca68afa68a63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 71
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f27af7dccd45146ae2ff9b60dba00f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4a75611cab0b4c952ec1b90b32dbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 42
+        width: 115
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e6a3be733990c42b1960d440569fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_78
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 25
+        width: 142
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b69102065252409fbb90930578b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_79
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 14
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662269ea89542c4b98614f564022c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_the_cat_sprite_sheet_by_ajlew-dbvfxw6_80
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 15
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3be25d5267c14bade2cf23db4b374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef630e09ead820e49b48b389e7280e7f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

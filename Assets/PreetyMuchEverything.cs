@@ -5,43 +5,52 @@ using UnityEngine.UI;
 
 public class PreetyMuchEverything : MonoBehaviour
 {
-    public Rigidbody2D rbdy2d;
+    public Color colorofchoiche = Color.yellow;
+    MoneyText Moneytext;
+
     public string objectname;
     public int usages;
     public int kilo;
-    public int dublons;
-    private int currentmoney = 20;
+    public int cost;
     public Text text;
     public Text money;
     public Renderer Render;
 
-	void Start ()
+    void Start ()
     {
-        rbdy2d = GetComponent<Rigidbody2D>();
+        Moneytext = GetComponent<MoneyText>();
         Render = GetComponent<Renderer>();
     }
 
     public void OnMouseEnter()
     {
-        Render.material.color = Color.yellow;
-        text.text = (usages) + ":Left| This is " + (objectname) + " uwu and it weighs " + (kilo) + " And it costs " + (dublons);
+        Render.material.color = colorofchoiche;
+        transform.localScale += new Vector3(0.2f, 0.2f);
+        text.text = (usages) + ":Left| This is " + (objectname) + " uwu and it weighs " + (kilo) + " And it costs " + (cost);
     }
 
     public void OnMouseExit()   
     {
         text.text = "";
-       Render.material.color = Color.white;    
+        transform.localScale -= new Vector3(0.2f, 0.2f);
+        Render.material.color   = Color.white;    
     }
 
     public void OnMouseUpAsButton()
     {
-        if (usages > 0)
+        if (usages > 0 && MoneyText.money > cost)
         {
-            usages -= 1;
             text.text = "Solid buy ma guy";
-            currentmoney -= dublons;
+            MoneyText.money -= cost;
+            usages -= 1;
+
+        if (MoneyText.money < cost)
+            {
+                Debug.Log("What the hell");
+                text.text = "Cant let you do that starfox";
+            }
         }
-        if(usages <= 0)
+        if (usages <= 0)
         {
             text.text = "Were out buddy";
         }
@@ -50,8 +59,8 @@ public class PreetyMuchEverything : MonoBehaviour
 
     public void Money()
     {
-        dublons = kilo * 3;
-        money.text = "Money : " + currentmoney;
+        cost = kilo * 3;
+        money.text = "Money : " + MoneyText.money;
     }
     void Update ()
     {
